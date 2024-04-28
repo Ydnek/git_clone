@@ -1,5 +1,5 @@
 # _Git and GitHub_
-
+![git_logo](git-logo.png)
 ## Topics that we discuse are 
 ### 1.Branching 
 ### 2.Merging
