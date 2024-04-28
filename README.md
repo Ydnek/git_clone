@@ -1,6 +1,5 @@
 # _Git and GitHub_
-<img src="git-logo.png" alt="git-logo" width="200"/>
-![git_logo](git-logo.png)
+![git_logo](git-logo.png =x250)
 ## Topics that we discuse are 
 ### 1.Branching 
 ### 2.Merging
