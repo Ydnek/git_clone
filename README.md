@@ -7,12 +7,13 @@
 ### 2.Merging
 ### 3.Feature Branch Workflow
 
-**How to create branch** 
+### 1._Branching_ 
+#### _How to create branch_ 
 : `git branch _branch-name_`
 
-**How to change branch**
+#### _How to change branch_
 : `git checkout _branch-name_`
 
-**How to list branchs that you crated**
+#### _How to list branchs that you crated_
 : `git branch`
 
