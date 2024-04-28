@@ -1,4 +1,5 @@
 # _Git and GitHub_
+<img src="git-logo.png" alt="git-logo" width="200"/>
 ![git_logo](git-logo.png)
 ## Topics that we discuse are 
 ### 1.Branching 
